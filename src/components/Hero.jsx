@@ -59,7 +59,7 @@ const Hero = () => {
         >
           <div 
             className="w-32 h-32 mx-auto relative cursor-pointer group"
-            onClick={() => window.open('/12.jpeg', '_blank')}
+            onClick={() => window.open('12.jpeg', '_blank')}
           >
             <div
               className="absolute inset-0 rounded-full p-1 group-hover:p-0.5 transition-all"
@@ -69,7 +69,7 @@ const Hero = () => {
               }}
             >
               <img 
-                src="/12.jpeg" 
+                src="12.jpeg" 
                 alt="Jaideep M C" 
                 className="w-full h-full bg-slate-900 rounded-full object-cover group-hover:scale-105 transition-transform"
               />
@@ -129,7 +129,7 @@ const Hero = () => {
           </motion.button>
 
           <motion.a
-            href="/Resume.pdf"
+            href="Resume.pdf"
             download
             className="btn-secondary inline-flex items-center justify-center"
             variants={fadeInUp}
