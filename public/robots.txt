@@ -1,0 +1,28 @@
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://jaideepmc.dev/sitemap.xml
+
+# Crawl-delay for good bots
+Crawl-delay: 1
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Disallow crawling of potential future admin or private areas
+Disallow: /admin/
+Disallow: /private/
