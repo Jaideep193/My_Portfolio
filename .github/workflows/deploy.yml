@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build
-        run: BASE_URL=/My_Portfolio/ npm run build
+        run: VITE_BASE_URL=/My_Portfolio/ npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
