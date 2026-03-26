@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // No proxy needed - Gemini API allows direct browser calls (no CORS issues)
 export default defineConfig({
-  base: import.meta.env.VITE_BASE_URL || '/',
+  base: process.env.VITE_BASE_URL || '/',
   plugins: [react()],
 })
