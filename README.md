@@ -7,13 +7,9 @@ A modern, responsive developer portfolio showcasing my projects, skills, and exp
 ## 🚀 Live Deployment (PlatformURL)
 
 The portfolio is actively deployed and accessible across multiple platforms:
+| [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-deploy-gamma.vercel.app/) | [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://jaideep193.github.io/My_Portfolio/) |
+| [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://jolly-water-0aa4eff0f.6.azurestaticapps.net) | [![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d15s0eswqgfavf.cloudfront.net/) |
 
-| ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?logo=github&logoColor=white) | [https://jaideep193.github.io/My_Portfolio/](https://jaideep193.github.io/My_Portfolio/) |
-|----------|-----|
-
-| ![Azure](https://img.shields.io/badge/Azure%20Static%20Web%20Apps-0078D4?logo=microsoft-azure&logoColor=white) | [https://jolly-water-0aa4eff0f.6.azurestaticapps.net](https://jolly-water-0aa4eff0f.6.azurestaticapps.net) |
-| ![AWS](https://img.shields.io/badge/AWS%20CloudFront-FF9900?logo=amazon-aws&logoColor=white) | [https://d15s0eswqgfavf.cloudfront.net/](https://d15s0eswqgfavf.cloudfront.net/) |water-0aa4eff0f.6.azurestaticapps.net) |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) | [https://my-portfolio-deploy-gamma.vercel.app/](https://my-portfolio-deploy-gamma.vercel.app/) |
 
 ---
 
