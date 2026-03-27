@@ -13,7 +13,7 @@ The portfolio is actively deployed and accessible across multiple platforms:
 | [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://jaideep193.github.io/My_Portfolio/) | [https://jaideep193.github.io/My_Portfolio/](https://jaideep193.github.io/My_Portfolio/) |
 | [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://jolly-water-0aa4eff0f.6.azurestaticapps.net) | [https://jolly-water-0aa4eff0f.6.azurestaticapps.net](https://jolly-water-0aa4eff0f.6.azurestaticapps.net) |
 | [![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d15s0eswqgfavf.cloudfront.net/) | [https://d15s0eswqgfavf.cloudfront.net/](https://d15s0eswqgfavf.cloudfront.net/) |
-| [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://jolly-water-0aa4eff0f.6.azurestaticapps.net) | [![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d15s0eswqgfavf.cloudfront.net/) |
+
 
 
 ---
