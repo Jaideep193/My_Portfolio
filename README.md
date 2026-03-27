@@ -120,15 +120,7 @@ My_Portfolio/
 
 ---
 
-## 🌟 Future Enhancements
 
-- [ ] Add blog section with technical articles
-- [ ] Implement dark/light theme toggle
-- [ ] Add project case studies with detailed breakdowns
-- [ ] Integrate contact form with email notifications
-- [ ] Add animation library for enhanced interactions
-- [ ] Implement multilingual support
-- [ ] Add certification showcase section
 
 ---
 
@@ -166,7 +158,7 @@ Feel free to use this portfolio as a reference or template for your own projects
 
 - **GitHub:** [github.com/Jaideep193](https://github.com/Jaideep193)
 - **Email:** Reach out via the contact form on the portfolio
-- **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/yourprofile)
+
 
 ---
 
