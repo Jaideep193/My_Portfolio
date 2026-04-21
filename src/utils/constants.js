@@ -277,7 +277,18 @@ export const certificationsData = [
     logoColor: 'text-red-600',
     link: 'https://catalog-education.oracle.com/pls/certview/sharebadge?id=88552EA17855BFDA1C2E1C0B4F66D9EAECDEF161578F5F97793CF231D280360C',
     icon: '🌐',
-  }
+  },
+  {
+    id: 10,
+    title: 'Microsoft Azure AI Fundamentals (AZ-900)',
+    institution: 'Microsoft',
+    year: '2026',
+    details: 'Cloud concepts, Azure AI Workloads, ML, Gen-AI, Computer Vision, NLP, Responsibilities of AI',
+    logoUrl: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg',
+    logoColor: 'text-blue-500',
+    link: 'https://learn.microsoft.com/api/credentials/share/en-in/JaideepMC-3064/4B39B5884E329D4F?sharingId=6788F3C5B1756A98',
+    icon: '☁️',
+  },
 ]
 
 // Internships data
