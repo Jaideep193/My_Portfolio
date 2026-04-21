@@ -280,7 +280,7 @@ export const certificationsData = [
   },
   {
     id: 10,
-    title: 'Microsoft Azure AI Fundamentals (AZ-900)',
+    title: 'Microsoft Azure AI Fundamentals (AI-900)',
     institution: 'Microsoft',
     year: '2026',
     details: 'Cloud concepts, Azure AI Workloads, ML, Gen-AI, Computer Vision, NLP, Responsibilities of AI',
