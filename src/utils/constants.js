@@ -288,7 +288,7 @@ export const certificationsData = [
     logoColor: 'text-blue-500',
     link: 'https://learn.microsoft.com/api/credentials/share/en-in/JaideepMC-3064/4B39B5884E329D4F?sharingId=6788F3C5B1756A98',
     icon: '☁️',
-  },
+  }
 ]
 
 // Internships data
