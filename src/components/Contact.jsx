@@ -84,8 +84,8 @@ const Contact = ({ isDark = true }) => {
     {
       icon: '📱',
       label: 'Phone',
-      value: 'XXXXXXXXXX',
-      href: 'tel:XXXXXXXXXX',
+      value: '8867256049',
+      href: 'https://wa.me/918867256049?text=Hello%20I%20would%20like%20to%20know%20more',
     },
   ]
 
