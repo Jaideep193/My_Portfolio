@@ -266,35 +266,43 @@ const Contact = ({ isDark = true }) => {
             </h3>
 
             {contactLinks.map((link, index) => (
-              <Card
-                key={index}
-                isDark={isDark}
-                className="p-6 flex items-start gap-4 group transition-all"
-              >
-                <div className={`mt-1 ${link.isImage ? 'w-8 h-8 flex items-center justify-center bg-white rounded-lg' : 'text-3xl'}`}>
-                  {link.isImage ? (
-                    <img src={link.icon} alt={link.label} className="w-full h-full object-contain p-1" />
-                  ) : (
-                    link.icon
-                  )}
-                </div>
-                <div className="flex-1">
-                  <h4 className={`font-semibold mb-1 ${
-                    isDark ? 'text-gray-300' : 'text-slate-700'
-                  }`}>
-                    {link.label}
-                  </h4>
-                  <p className={`transition-colors ${
-                    isDark
-                      ? 'text-gray-400 group-hover:text-cyan-400'
-                      : 'text-slate-600 group-hover:text-cyan-600'
-                  }`}>
-                    {link.value}
-                  </p>
-                </div>
-              </Card>
-            ))}
+  <a
+    key={index}
+    href={link.href}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="block"
+  >
+    <Card
+      isDark={isDark}
+      className="p-6 flex items-start gap-4 group transition-all cursor-pointer hover:scale-105"
+    >
+      <div className={`${link.isImage ? 'w-8 h-8 flex items-center justify-center bg-white rounded-lg' : 'text-3xl'}`}>
+        {link.isImage ? (
+          <img src={link.icon} alt={link.label} className="w-full h-full object-contain p-1" />
+        ) : (
+          link.icon
+        )}
+      </div>
 
+      <div className="flex-1">
+        <h4 className={`font-semibold mb-1 ${
+          isDark ? 'text-gray-300' : 'text-slate-700'
+        }`}>
+          {link.label}
+        </h4>
+
+        <p className={`${
+          isDark
+            ? 'text-gray-400 group-hover:text-cyan-400'
+            : 'text-slate-600 group-hover:text-cyan-600'
+        }`}>
+          {link.value}
+        </p>
+      </div>
+    </Card>
+  </a>
+))}
             {/* Social Links */}
             <Card isDark={isDark} className="p-6">
               <h4 className={`font-semibold mb-4 ${
