@@ -174,8 +174,8 @@ const Internships = ({ isDark = true }) => {
           viewport={{ once: true }}
         >
           {[
-            { number: '3', label: 'Internships', icon: '💼' },
-            { number: '5', label: 'Months Total', icon: '📅' },
+            { number: '4', label: 'Internships', icon: '💼' },
+            { number: '9', label: 'Months Total', icon: '📅' },
             { number: '10+', label: 'Skills Learned', icon: '🎓' },
             { number: '90-95%', label: 'Performance', icon: '⭐' },
           ].map((stat, index) => (
