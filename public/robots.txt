@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://jaideepmc.dev/sitemap.xml
+Sitemap: https://jolly-water-0aa4eff0f.6.azurestaticapps.net/sitemap.xml
 
 # Crawl-delay for good bots
 Crawl-delay: 1
